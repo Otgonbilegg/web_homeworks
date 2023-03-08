@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Website</title>
+    <link rel="stylesheet" type="text/css" href="layout.css">
+  </head>
+  <body>
+    <header>
+      <h1>My Website</h1>
+    </header>
+    
+    <nav>
+      <ul>
+        <li><a href="#">Үндсэн цэс</a></li>
+        <li><a href="#">Тухай</a></li>
+        <li><a href="#">Үйлчилгээ</a></li>
+        <li><a href="#">Холбоо барих</a></li>
+      </ul>
+    </nav>
+    
+    <div id="content">
+      <h2>Миний семинарын ажилд тавтай морил</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu felis vel ipsum venenatis tempus. Donec commodo volutpat augue ac mattis. Sed eleifend sagittis dolor, vel bibendum enim pulvinar in. Suspendisse potenti. Vivamus imperdiet ligula at aliquam pharetra. Donec sed nunc vitae elit dignissim eleifend. Nullam eget justo vel quam pellentesque consequat. Fusce faucibus justo non lacus commodo scelerisque.</p>
+    </div>
+    
+    <footer>
+      <p>web swminar 3.2</p>
+    </footer>
+  </body>
+</html>
